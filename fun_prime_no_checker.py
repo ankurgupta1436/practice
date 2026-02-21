@@ -8,5 +8,3 @@ def is_prime(n):
 
 num = 29
 print(f"{num} is prime:", is_prime(num))
-num = 30
-print(f"{num} is prime:", is_prime(num))
