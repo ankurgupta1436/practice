@@ -9,6 +9,7 @@ def add_item():
     items.append({"id": item_id, "name": name, "qty": qty})
     print("Item added.\n")
 
+
 def view_items():
     if not items:
         print("No items.\n")
