@@ -1,3 +1,4 @@
+# Take two numbers and print the larger one.
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 
