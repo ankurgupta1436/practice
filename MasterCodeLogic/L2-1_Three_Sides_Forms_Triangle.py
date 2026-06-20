@@ -1,3 +1,4 @@
+# Program To Take three sides and check if they form a valid triangle.
 side1 = int(input("Enter first side: "))
 side2 = int(input("Enter second side: "))
 side3 = int(input("Enter third side: "))
