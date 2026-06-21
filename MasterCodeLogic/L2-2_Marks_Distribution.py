@@ -14,4 +14,3 @@ if  marks >= 0 and  marks <= 100:   # 0 <= marks <= 100:
         print("Grade F")
 else:
     print("Enter marks that lies from 0 to 100")
-    
