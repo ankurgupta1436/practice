@@ -1,6 +1,5 @@
 # Check if an amount can be evenly divided into 2000, 500, and 100 currency notes.  
 
-# Check if an amount can be divided into 2000, 500, and 100 currency notes.
 
 def amount(amt):
     if amt % 100 != 0:
