@@ -1,6 +1,6 @@
 # Take coordinates (x, y) and check if the point lies on the X-axis, Y-axis, or at the origin.
 
-# Take coordinates (x, y) and check if the point lies on the X-axis, Y-axis, or at the origin.
+
 
 def x_and_y(x, y):
     if x == 0 and y == 0:
