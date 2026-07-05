@@ -6,5 +6,6 @@ def even_num():
         if num % 2 == 0:
             print(num)
         num += 1
+        
 
 even_num()
