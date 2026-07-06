@@ -9,3 +9,11 @@ def even_num():
         
 
 even_num()
+
+print("\n")
+
+def even_number():
+    for num in range(2, 101, 2):
+        print(num)
+
+even_num()
