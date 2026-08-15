@@ -1,0 +1,3 @@
+# Four Star ****
+
+print("****")
