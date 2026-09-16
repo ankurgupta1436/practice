@@ -19,7 +19,8 @@ for i in range(7):
 
     # Print 0
     for j in range(5):
-        if i == 0 or i == 6:       # Top and bottom
+        if i == 0 or i == 6: 
+
             print("*", end="")
         elif j == 0 or j == 4:     # Left and right vertical
             print("*", end="")
